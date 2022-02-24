@@ -40,7 +40,7 @@
           </elementProp>
           <stringProp name="HTTPSampler.domain">dummyapi.io</stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
-          <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">/data/v1/user</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
